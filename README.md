@@ -16,25 +16,25 @@ Toutes les images utilisées sont libres de droits :
 - [Banque de photos de l'IUT Robert Schuman](https://seafile.unistra.fr/d/03767a1835b7493b83a6/?p=%2FBelles%20photos%20(libre%20de%20droits)&mode=list);
 - Dessinées par nous-mêmes, à base d'images libres trouvées sur Internet.
 
-<p style="text-align: center;">![Lancement](visuals/screenshots/game_start.png)</p>
+![Lancement](visuals/screenshots/game_start.png)
 
-<p style="text-align: center;"><small>Fig.1. Début du jeu</small></p>
+Fig.1. Début du jeu
 
-<p style="text-align: center;">![Campus](visuals/screenshots/main_screen.png)</p>
+![Campus](visuals/screenshots/main_screen.png)
 
-<p style="text-align: center;"><small>Fig.2. Fenêtre principale : le campus au printemps</small></p>
+Fig.2. Fenêtre principale : le campus au printemps
 
-<p style="text-align: center;">![Popup](visuals/screenshots/shift_view.png)</p>
+![Popup](visuals/screenshots/shift_view.png)
 
-<p style="text-align: center;"><small>Fig.3. Vue de devant</small></p>
+Fig.3. Vue de devant
 
-<p style="text-align: center;">![Popup](visuals/screenshots/popup.png)</p>
+![Popup](visuals/screenshots/popup.png)
 
-<p style="text-align: center;"><small>Fig.4. Notification volante</small></p>
+Fig.4. Notification volante
 
-<p style="text-align: center;">![History](visuals/screenshots/history.png)</p>
+![History](visuals/screenshots/history.png)
 
-<p style="text-align: center;"><small>Fig.5. L'historique</small></p>
+Fig.5. L'historique
 
 ### Installation et exécution
 
